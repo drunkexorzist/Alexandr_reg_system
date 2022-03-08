@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.reg{
+    margin: 0 auto;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 250px;
+    height: 25px;
+    margin-top: 30px;
+}
